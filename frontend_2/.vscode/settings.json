@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5731830b-3ad0-435e-b483-71ebc55a42fe/AppServices/subscriptions/5731830b-3ad0-435e-b483-71ebc55a42fe/resourceGroups/cs519assignment4/providers/Microsoft.Web/sites/cs519assignment4frontend",
+    "appService.deploySubpath": "."
+}
